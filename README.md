@@ -1,2 +1,2 @@
-## Blockchain_Model_Python
+### Blockchain
 Built a working Blockchain model using python
