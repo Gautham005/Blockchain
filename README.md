@@ -1,2 +1,2 @@
-### Blockchain_model
+### Blockchain
 Built a simple Blockchain model using python
