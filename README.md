@@ -1,2 +1,2 @@
 ### Blockchain
-Built a simple Blockchain model using python
+Web app for a simple Blockchain model.
